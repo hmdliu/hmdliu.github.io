@@ -8,15 +8,14 @@ profile:
   align: right
   image: me.jpg
   image_circular: false # crops the image to make it circular
-  address: 
-    <p>Room E610-C19</p>
-    <p>567 West Yangsi Road</p>
-    <p>Pudong, Shanghai, China 200124</p>
+  address: >
+    <p>Photo cr. Julie</p>
+    <p>Email: hammond DOT liu AT nyu DOT edu</p>
 
 news: true              # includes a list of news items
 latest_posts: false     # includes a list of the newest posts
 selected_papers: false  # includes a list of papers marked as "selected={true}"
-social: true            # includes social icons at the bottom of the page
+social: false           # includes social icons at the bottom of the page
 ---
 
 I'm an incoming Ph.D. student at [NYU Shanghai](https://shanghai.nyu.edu/) and [NYU Tandon](https://engineering.nyu.edu/) (co-affiliation), advised by Professor [Hongyi Wen](https://whongyi.github.io/). Prior to that, I did my undergrad at NYU Shanghai, where I was fortunate to receive research training under the guidance of Professor [Li Guo](https://shanghai.nyu.edu/academics/faculty/directory/li-guo). In 2023, I obtained my B.S. degree and graduated with the Dean’s Award in Computer Science, Data Science, and Engineering (top-1 honor in the department).
