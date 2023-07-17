@@ -13,7 +13,9 @@ nav_order: 2
 Spring 2023, course project mentored by Prof. [Hongyi Wen](https://whongyi.github.io/). \
 **Haoming Liu** and Haohai Pang. \
 [`Report`](../assets/pdf/Report_RS.pdf)
-[`Code`](https://github.com/hmdliu/RecSys-SP23/tree/main/Project)
+[`Code`](https://github.com/hmdliu/RecSys-SP23/tree/main/Project) <br>
+
+---
 
 ### Computer Vision
 
@@ -36,7 +38,9 @@ Fall 2021, course project mentored by Prof. [Rob Fergus](https://cs.nyu.edu/~fer
 **Haoming Liu**, Chen Song Zhang, and Jiayao Jin. \
 [`Report`](../assets/pdf/Report_CV.pdf)
 [`Code`](https://github.com/hmdliu/RepMAF)
-[`Video`](https://drive.google.com/file/d/1s0Ok-tXuxGn75a_k5NGgRZ4hMTHetreE/view?usp=sharing)
+[`Video`](https://drive.google.com/file/d/1s0Ok-tXuxGn75a_k5NGgRZ4hMTHetreE/view?usp=sharing) <br>
+
+---
 
 ### Natural Language Processing
 
@@ -44,7 +48,9 @@ Fall 2021, course project mentored by Prof. [Rob Fergus](https://cs.nyu.edu/~fer
 Spring 2022, course project mentored by Prof. [Sam Bowman](https://cims.nyu.edu/~sbowman/). \
 **Haoming Liu**, Xiaochen Lu, and Wenbin Qi. \
 [`Report`](../assets/pdf/Report_MLLU.pdf)
-[`Code`](https://github.com/hmdliu/MLLU-S22)
+[`Code`](https://github.com/hmdliu/MLLU-S22) <br>
+
+---
 
 ### Optimization
 
@@ -52,7 +58,9 @@ Spring 2022, course project mentored by Prof. [Sam Bowman](https://cims.nyu.edu/
 Spring 2023, course project mentored by Prof. [Zhibin Chen](https://shanghai.nyu.edu/academics/faculty/directory/zhibin-chen). \
 **Haoming Liu** and Shizhao Yang. \
 [`Report`](../assets/pdf/Report_Optim.pdf)
-[`Code`](https://github.com/hmdliu/Optim-SP23)
+[`Code`](https://github.com/hmdliu/Optim-SP23) <br>
+
+---
 
 ### Information Visualization
 
@@ -60,4 +68,4 @@ Spring 2023, course project mentored by Prof. [Zhibin Chen](https://shanghai.nyu
 Fall 2020, course project mentored by Prof. [Xianbin Gu](https://shanghai.nyu.edu/academics/faculty/directory/xianbin-gu). \
 **Haoming Liu**. \
 [`Report`](../assets/pdf/Report_IV.pdf)
-[`Demo`](https://drive.google.com/drive/folders/1HwU6hjsAsYE5VIdbLdq3Xe1YJMJyeYqR?usp=sharing)
+[`Demo`](https://drive.google.com/drive/folders/1HwU6hjsAsYE5VIdbLdq3Xe1YJMJyeYqR?usp=sharing) <br>
