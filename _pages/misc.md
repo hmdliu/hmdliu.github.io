@@ -4,7 +4,7 @@ permalink: /misc/
 title: Misc
 description: A bit more about me and my friends.
 nav: true
-nav_order: 3
+nav_order: 4
 ---
 
 In my spare time, I read philosophical works about Confucianism, Buddhism, and Taoism (儒釋道) and study some divination or fortune-telling techniques (易經數術) from ancient China. Besides, I sometimes play [guitar](https://drive.google.com/file/d/1SU3S5UhBUUoE5TJy_hmK87xawhIVPJrA/view?usp=sharing) and [Guqin (古琴)](https://drive.google.com/file/d/1lA3CFnW4XLk4gSvLlmlt_FXuuK5w3zMz/view?usp=sharing) for recreation.
