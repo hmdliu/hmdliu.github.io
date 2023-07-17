@@ -1,52 +1,51 @@
 - title: Education
   type: time_table
   contents:
-    - title: Doctor of Philosophy, NYU Tandon & NYU Shanghai
+    - title: Doctor of Philosophy, NYU Tandon & NYU Shanghai.
       year: 2023 - Now
       description:
         - "Major: Computer Science"
         - "Advisor: Hongyi Wen"
-    - title: Bachelor of Science, NYU Shanghai
+    - title: Bachelor of Science, NYU Shanghai.
       year: 2019 - 2023
       description:
         - "Major: Computer Science"
         - "Minor: Mathematics"
-    - title: Tianjin Experimental High School
+    - title: Tianjin Experimental High School.
       year: 2013 - 2019
 
 - title: Experience
   type: time_table
   contents:
-    - title: Research Assistant, NYU Shanghai
+    - title: Research Assistant, NYU Shanghai.
       year: 2020-2023
       description:
         - "Topics: Segmentation tasks in the computer vision field"
         - "Advisor: Li Guo"
-    - title: Course Assistant, NYU Shanghai
+    - title: Course Assistant, NYU Shanghai.
       year: 2021-2023
       description:
-        - "Spring 2023: Intro to Computer and Data Science (STEM Lead)"
+        - "Spring 2023: Intro to CS and DS (STEM Lead)"
         - "Fall 2022: Machine Learning (STEM Lead)"
         - "Spring 2021: Information Visualization"
-    - title: Club President, NYU Shanghai
+    - title: Splice Club President, NYU Shanghai.
       year: 2020-2021
       description:
-        - Leading the Splice Club, a CS/DS-focused student organization.
+        - A CS/DS-focused student organization.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - title: Graduation Honors, NYU Shanghai
+    - title: Graduation Honors, NYU Shanghai & NYU.
       year: 2023
       items:
-        - Dean's Award in Computer Science, Data Science, and Engineering
+        - Dean's Award in Computer Science, Data Science, and Engineering (top-1 honor in the department)
         - NYU Shanghai Excellence Award
+        - University Honors Scholar
         - Summa Cum Laude
-    - title: University Honors Scholar, NYU
-      year: 2023
-    - title: Dean's List for Academic Year, NYU Shanghai
+    - title: Dean's List for Academic Year, NYU Shanghai.
       year: 2019 - 2023
-    - title: Research Assistant Fund, NYU Shanghai
+    - title: Research Assistant Fund, NYU Shanghai.
       year: 2021 - 2022
-    - title: Deans' Undergraduate Research Fund, NYU Shanghai
+    - title: Deans' Undergraduate Research Fund, NYU Shanghai.
       year: 2020 - 2021
