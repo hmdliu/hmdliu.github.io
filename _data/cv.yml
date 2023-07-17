@@ -11,6 +11,7 @@
       description:
         - "Major: Computer Science"
         - "Minor: Mathematics"
+        - "GPA: 3.94/4.00"
     - title: Tianjin Experimental High School.
       year: 2013 - 2019
 
@@ -31,7 +32,7 @@
     - title: Splice Club President, NYU Shanghai.
       year: 2020-2021
       description:
-        - A CS/DS-focused student organization.
+        - A CS/DS-focused student organization
 
 - title: Honors and Awards
   type: time_table
