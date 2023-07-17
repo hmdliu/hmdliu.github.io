@@ -19,7 +19,9 @@ social: false           # includes social icons at the bottom of the page
 
 I'm an incoming Ph.D. student at [NYU Shanghai](https://shanghai.nyu.edu/) and [NYU Tandon](https://engineering.nyu.edu/) (co-affiliation), advised by Professor [Hongyi Wen](https://whongyi.github.io/). Prior to that, I did my undergrad at NYU Shanghai, where I was fortunate to receive research training under the guidance of Professor [Li Guo](https://shanghai.nyu.edu/academics/faculty/directory/li-guo). In 2023, I obtained my B.S. degree (CS major & Math minor) and graduated with the Dean’s Award in Computer Science, Data Science, and Engineering (top-1 honor in the department).
 
-I‘m passionate about exploring the abstract correlations behind instances and facts. During undergrad, my research was dedicated to segmentation tasks in the computer vision field. Currently, my research interest lies in **utilizing multimodal data and large pre-trained models for practical applications of personalization**. My recent work is about `personalized image generation`.
+I‘m passionate about exploring the abstract correlations behind instances and facts. During undergrad, my research was dedicated to segmentation tasks in the computer vision field. Currently, my research interest lies in **utilizing multimodal data and large pre-trained models for practical applications of personalization**.
+
+My recent work is about `personalized image generation`.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
