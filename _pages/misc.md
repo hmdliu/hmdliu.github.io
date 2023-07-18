@@ -7,11 +7,28 @@ nav: true
 nav_order: 4
 ---
 
+---
+
 In my spare time, I read philosophical works about Confucianism, Buddhism, and Taoism (儒釋道) and study some divination or fortune-telling techniques (易經數術) from ancient China. Besides, I sometimes play [guitar](https://drive.google.com/file/d/1SU3S5UhBUUoE5TJy_hmK87xawhIVPJrA/view?usp=sharing) and [Guqin (古琴)](https://drive.google.com/file/d/1lA3CFnW4XLk4gSvLlmlt_FXuuK5w3zMz/view?usp=sharing) for recreation.
+
+<p align="center">
+  <img src="../assets/img/htbg.png" alt="Diagram of Houtian Bagua" width="500"> <br>
+  Diagram of Houtian Bagua (後天八卦圖). (cr.《古今圖書集成》)
+</p>
+
+---
 
 I expect most things to be organized, and that is precisely why I wish to code elegantly. I enjoy logging my daily activities and visualizing them - this helps me adjust my work-life balance and make better use of my time. Click [here](https://drive.google.com/drive/folders/1HwU6hjsAsYE5VIdbLdq3Xe1YJMJyeYqR?usp=sharing) to see some of my visualizations.
 
+<p align="center">
+  <img src="../assets/img/timewheel.png" alt="Diagram of Houtian Bagua" width="500"> <br>
+  My time wheel for the year of 2021.
+</p>
+
+---
+
 Please also check out my friends' homepages: \
+[Julie Zhu | 朱芊语](https://qianyu-zhu.github.io/) (my dear girlfriend :purple_heart:) \
 [William Zhang | 张成瑜](https://mstxy.github.io/) \
 [Victor Wang | 王泽诚](https://victor-wang-902.github.io/) \
 [Xinhao Liu | 刘歆昊](https://gaaaavin.github.io/) \
