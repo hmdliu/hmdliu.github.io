@@ -21,20 +21,20 @@ In my spare time, I read philosophical works about Confucianism, Buddhism, and T
 I expect most things to be organized, and that is precisely why I wish to code elegantly. I enjoy logging my daily activities and visualizing them - this helps me adjust my work-life balance and make better use of my time. Click [here](https://drive.google.com/drive/folders/1HwU6hjsAsYE5VIdbLdq3Xe1YJMJyeYqR?usp=sharing) to see some of my visualizations.
 
 <p align="center">
-  <img src="../assets/img/timewheel.png" alt="My time wheel for the year of 2021" width="400"> <br> <br>
-  My time wheel for the year of 2021
+  <img src="../assets/img/wheel_2022.png" alt="My time wheel for 2022 (UTC+8)" width="400"> <br> <br>
+  My time wheel for 2022 (UTC+8)
 </p>
 
 ---
 
 Please also check out my friends' homepages: \
-[Julie Zhu | 朱芊语](https://qianyu-zhu.github.io/) (my girlfriend :two_hearts:) \
-[William Zhang | 张成瑜](https://mstxy.github.io/) \
-[Victor Wang | 王泽诚](https://victor-wang-902.github.io/) \
-[Xinhao Liu | 刘歆昊](https://gaaaavin.github.io/) \
-[Harry Lee | 李昊蕤](https://harrilee.site/) \
-[Tom Zhu | 竺力扬](https://tomzhu.site/) \
-[Nigel Lu | 卢晓晨](https://nigellu.github.io/)
+\>\> [Julie Zhu | 朱芊语](https://qianyu-zhu.github.io/) (my girlfriend :two_hearts:) \
+\>\> [William Zhang | 张成瑜](https://mstxy.github.io/) \
+\>\> [Victor Wang | 王泽诚](https://victor-wang-902.github.io/) \
+\>\> [Xinhao Liu | 刘歆昊](https://gaaaavin.github.io/) \
+\>\> [Harry Lee | 李昊蕤](https://harrilee.site/) \
+\>\> [Tom Zhu | 竺力扬](https://tomzhu.site/) \
+\>\> [Nigel Lu | 卢晓晨](https://nigellu.github.io/)
 
 <!-- <p> Please also check out my friends' homepages:
 <ul>
