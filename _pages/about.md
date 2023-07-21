@@ -17,7 +17,7 @@ selected_papers: false  # includes a list of papers marked as "selected={true}"
 social: false           # includes social icons at the bottom of the page
 ---
 
-I'm a Computer Science Ph.D. student at [NYU Shanghai](https://shanghai.nyu.edu/) and [NYU Tandon](https://engineering.nyu.edu/) (co-affiliation), advised by Professor [Hongyi Wen](https://whongyi.github.io/). Prior to that, I did my undergrad at NYU Shanghai, where I was fortunate to receive research training under the guidance of Professor [Li Guo](https://shanghai.nyu.edu/academics/faculty/directory/li-guo). In 2023, I obtained my B.S. degree (CS major & Math minor) and graduated with the Dean’s Award in Computer Science, Data Science, and Engineering (top-1 honor in the department).
+I'm a Computer Science Ph.D. student at [NYU Shanghai](https://shanghai.nyu.edu/) and [NYU Tandon](https://engineering.nyu.edu/), advised by Professor [Hongyi Wen](https://whongyi.github.io/). Prior to that, I did my undergrad at NYU Shanghai, where I was fortunate to receive research training under the guidance of Professor [Li Guo](https://shanghai.nyu.edu/academics/faculty/directory/li-guo). In 2023, I obtained my B.S. degree (Computer Science major & Math minor) and graduated with the Dean’s Award in Computer Science, Data Science, and Engineering (top-1 honor in the department).
 
 I'm interested in exploring the causal relations and universal rules behind instances and facts. My research during undergrad was dedicated to segmentation tasks for computer vision. Currently, my research interest lies in **utilizing multimodal data and large pre-trained models for practical applications of personalization**.
 
