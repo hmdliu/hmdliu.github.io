@@ -28,22 +28,10 @@ I expect most things to be organized, and that is precisely why I wish to code e
 ---
 
 Please also check out my friends' homepages: \
-\>\> [Julie Zhu | 朱芊语](https://qianyu-zhu.github.io/) (my girlfriend :two_hearts:) \
 \>\> [William Zhang | 张成瑜](https://mstxy.github.io/) \
 \>\> [Victor Wang | 王泽诚](https://victor-wang-902.github.io/) \
 \>\> [Xinhao Liu | 刘歆昊](https://gaaaavin.github.io/) \
 \>\> [Harry Lee | 李昊蕤](https://haorui.li/) \
+\>\> [Julie Zhu | 朱芊语](https://qianyu-zhu.github.io/) \
 \>\> [Tom Zhu | 竺力扬](https://tomzhu.site/) \
 \>\> [Nigel Lu | 卢晓晨](https://nigellu.github.io/)
-
-<!-- <p> Please also check out my friends' homepages:
-<ul>
-  <li><a href="https://qianyu-zhu.github.io/" target="_blank">Julie Zhu | 朱芊语</a> (my girlfriend :two_hearts:)</li>
-  <li><a href="https://mstxy.github.io/" target="_blank">William Zhang | 张成瑜</a></li>
-  <li><a href="https://victor-wang-902.github.io/" target="_blank">Victor Wang | 王泽诚</a></li>
-  <li><a href="https://gaaaavin.github.io/" target="_blank">Xinhao Liu | 刘歆昊</a></li>
-  <li><a href="https://haorui.li/" target="_blank">Harry Lee | 李昊蕤</a></li>
-  <li><a href="https://tomzhu.site/" target="_blank">Tom Zhu | 竺力扬</a></li>
-  <li><a href="https://nigellu.github.io/" target="_blank">Nigel Lu | 卢晓晨</a></li>
-</ul>
-</p> -->
