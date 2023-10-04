@@ -18,7 +18,7 @@ In my spare time, I read philosophical works about Confucianism, Buddhism, and T
 
 ---
 
-I expect most things to be organized, and that is precisely why I wish to code elegantly. I enjoy logging my daily activities and visualizing them - this helps me adjust my work-life balance and make better use of my time. Click [here](https://drive.google.com/drive/folders/1HwU6hjsAsYE5VIdbLdq3Xe1YJMJyeYqR?usp=sharing) to see some of my visualizations.
+I enjoy logging my daily activities and visualizing them - this helps me adjust my work-life balance and make better use of my time. Click [here](https://drive.google.com/drive/folders/1HwU6hjsAsYE5VIdbLdq3Xe1YJMJyeYqR?usp=sharing) to see some of my visualizations.
 
 <p align="center">
   <img src="../assets/img/wheel_2022.png" alt="My time wheel for 2022 (UTC+8)" width="400"> <br> <br>
