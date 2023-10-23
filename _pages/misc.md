@@ -10,9 +10,9 @@ nav_order: 4
 ---
 
 You may find the following docs useful:
-- [NYU HPC Notes](https://abstracted-crime-34a.notion.site/63aae4cc39904d11a5c744f480a42017?v=261a410e1fe24d0294ed744c21a41015&pvs=4)
-- [NYUSH Grad Application Handbook](https://docs.google.com/document/d/1PfYgkQvjaCNE6OyZ7GO6Y7tX89RcCvZLlvbKCxGgOL0/edit?usp=sharing)
-- [Python Learning Path for Beginners](https://drive.google.com/drive/folders/1C5KHjX0k2sEwjysIdWDe_COgixL70qbe?usp=sharing)
+\>\> [NYU HPC Notes](https://abstracted-crime-34a.notion.site/63aae4cc39904d11a5c744f480a42017?v=261a410e1fe24d0294ed744c21a41015&pvs=4) \
+\>\> [NYUSH Grad Application Handbook](https://docs.google.com/document/d/1PfYgkQvjaCNE6OyZ7GO6Y7tX89RcCvZLlvbKCxGgOL0/edit?usp=sharing) \
+\>\> [Python Learning Path for Beginners](https://drive.google.com/drive/folders/1C5KHjX0k2sEwjysIdWDe_COgixL70qbe?usp=sharing)
 
 ---
 
