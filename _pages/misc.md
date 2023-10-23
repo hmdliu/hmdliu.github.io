@@ -9,7 +9,14 @@ nav_order: 4
 
 ---
 
-In my spare time, I read philosophical works about Confucianism, Buddhism, and Taoism (儒釋道) and study some divination or fortune-telling techniques (易經數術) from ancient China. Besides, I sometimes play [guitar](https://drive.google.com/file/d/1SU3S5UhBUUoE5TJy_hmK87xawhIVPJrA/view?usp=sharing) and [Guqin (古琴)](https://drive.google.com/file/d/1lA3CFnW4XLk4gSvLlmlt_FXuuK5w3zMz/view?usp=sharing) for recreation.
+You may find the following docs useful:
+- [NYU HPC Notes](https://abstracted-crime-34a.notion.site/63aae4cc39904d11a5c744f480a42017?v=261a410e1fe24d0294ed744c21a41015&pvs=4)
+- [NYUSH Grad Application Handbook](https://docs.google.com/document/d/1PfYgkQvjaCNE6OyZ7GO6Y7tX89RcCvZLlvbKCxGgOL0/edit?usp=sharing)
+- [Python Learning Path for Beginners](https://drive.google.com/drive/folders/1C5KHjX0k2sEwjysIdWDe_COgixL70qbe?usp=sharing)
+
+---
+
+In my spare time, I read philosophical works about Confucianism, Buddhism, and Taoism (儒釋道) and study some divination or fortune-telling techniques (易經數術) from ancient China. I sometimes play [guitar](https://drive.google.com/file/d/1SU3S5UhBUUoE5TJy_hmK87xawhIVPJrA/view?usp=sharing) and [Guqin (古琴)](https://drive.google.com/file/d/1lA3CFnW4XLk4gSvLlmlt_FXuuK5w3zMz/view?usp=sharing) for recreation.
 
 <p align="center">
   <img src="../assets/img/htbg.png" alt="Diagram of Houtian Bagua" width="400"> <br> <br>
