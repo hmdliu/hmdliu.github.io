@@ -17,7 +17,7 @@ selected_papers: false  # includes a list of papers marked as "selected={true}"
 social: false           # includes social icons at the bottom of the page
 ---
 
-I'm a Computer Science Ph.D. student at [NYU Shanghai](https://shanghai.nyu.edu/) and [NYU Tandon](https://engineering.nyu.edu/) (co-affiliation), advised by Professor [Hongyi Wen](https://whongyi.github.io/) in the [MAPS Research Group](https://whongyi.github.io/MAPS-research). Prior to that, I did my undergrad at NYU Shanghai, where I was fortunate to receive research training under the guidance of Professor [Li Guo](https://shanghai.nyu.edu/academics/faculty/directory/li-guo). In 2023, I obtained my B.S. degree (Computer Science major & Math minor) and graduated with the Dean’s Award in Computer Science, Data Science, and Engineering.
+I'm a Computer Science Ph.D. student at [NYU Shanghai](https://shanghai.nyu.edu/) and [NYU Tandon](https://engineering.nyu.edu/), advised by Professor [Hongyi Wen](https://whongyi.github.io/) in the [MAPS Research Group](https://whongyi.github.io/MAPS-research). Prior to that, I did my undergrad at NYU Shanghai, where I was fortunate to receive research training under the guidance of Professor [Li Guo](https://shanghai.nyu.edu/academics/faculty/directory/li-guo). In 2023, I obtained my B.S. degree (Computer Science major & Math minor) and graduated with the Dean’s Award in Computer Science, Data Science, and Engineering.
 
 My research during undergrad was dedicated to image segmentation tasks. Currently, my research interest lies in **building accessible personalization systems based on multimodal data and large pre-trained models**.
 
