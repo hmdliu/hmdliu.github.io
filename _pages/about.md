@@ -21,7 +21,7 @@ I'm a Computer Science Ph.D. student at [NYU Shanghai](https://shanghai.nyu.edu/
 
 My research during undergrad was dedicated to image segmentation tasks. Currently, my research interest lies in **building accessible personalization systems based on multimodal data and large pre-trained models**.
 
-My recent work is about `personalized image generation`.
+My recent work is about `controllable image generation`.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 

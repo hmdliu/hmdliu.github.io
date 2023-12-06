@@ -6,7 +6,7 @@ title: Hammond Liu              # the website title (if blank, full name will be
 first_name: Haoming
 middle_name: 
 last_name: Liu
-email: hammond.liu@nyu.edu
+email: haoming.liu@nyu.edu
 description: >                  # the ">" symbol means to ignore newlines until "footer_text:"
   Personal homepage of Hammond Liu. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -111,7 +111,7 @@ contact_note:
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
 
-google_analytics:           # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
+google_analytics: G-0X1J12GXND # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
 cronitor_analytics:         # cronitor RUM analytics site ID (format: XXXXXXXXX)
 
 google_site_verification:   # your google-site-verification ID (Google Search Console)
