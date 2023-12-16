@@ -13,7 +13,7 @@ nav_order: 2
 
 **Ditail** (2023.10 - 2023.12) \
 Links: [[arXiv]](https://arxiv.org/abs/2312.08873) [[Code]](https://github.com/MAPS-research/Ditail) [[Demo]](https://huggingface.co/spaces/MAPS-research/Diffusion-Cocktail) [[Website]](https://maps-research.github.io/Ditail) \
-A training-free method for novel image generations and fine-grained content/style manipulations, enabling flexible integrations of existing pre-trained DMs and LoRAs. <br>
+A training-free method for fine-grained image content/style manipulation, enabling flexible integration of existing pre-trained DMs and LoRAs. <br>
 
 ---
 
