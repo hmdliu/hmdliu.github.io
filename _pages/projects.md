@@ -26,4 +26,4 @@ A prompt-model interaction dataset for generative model recommendation, consisti
 ---
 #### Earlier Projects
 
-My selected projects during undergrad are now archived [here](https://hmdliu.site/undergrad_projects/).
+My selected projects during undergrad have been archived [here](https://hmdliu.site/undergrad_projects/).
