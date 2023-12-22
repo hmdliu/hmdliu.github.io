@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /undergrad_projects/
-title: Undergrad Projects
-description: Archive of my selected projects during undergrad.
+permalink: /course_projects/
+title: Course Projects
+description: Collection of my selected course projects.
 nav: false
 nav_order: 
 ---
@@ -55,6 +55,12 @@ Spring 2022, course project mentored by Prof. [Sam Bowman](https://cims.nyu.edu/
 ---
 
 ### Optimization
+
+**On the Pitfalls of Weight Decay Decoupling** \
+Fall 2023, course project mentored by Prof. [Chris Musco](https://www.chrismusco.com/). \
+**Haoming Liu** and Xinhao Liu. \
+[`Report`](../assets/pdf/Report_AMLDS.pdf)
+[`Code`](https://github.com/Gaaaavin/CS-GY-6763-AMLDS) <br>
 
 **Optimization of Water Cooler Placement** \
 Spring 2023, course project mentored by Prof. [Zhibin Chen](https://shanghai.nyu.edu/academics/faculty/directory/zhibin-chen). \
