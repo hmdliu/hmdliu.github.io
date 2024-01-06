@@ -25,7 +25,7 @@ In my spare time, I read philosophical works about Confucianism, Buddhism, and T
 
 ---
 
-I enjoy logging and visualizing my daily activities - this helps me adjust my work-life balance and make better use of my time. Click [here](https://drive.google.com/drive/folders/1HwU6hjsAsYE5VIdbLdq3Xe1YJMJyeYqR?usp=sharing) to see some visualizations.
+Aiming for better work-life balance, I did intensive daily activity logging and [visualization](https://drive.google.com/drive/folders/1HwU6hjsAsYE5VIdbLdq3Xe1YJMJyeYqR?usp=sharing) from 2020 to 2022. Now, I've shifted to a lighter approach. :p
 
 <p align="center">
   <img src="../assets/img/wheel_2022.png" alt="My time wheel for 2022 (UTC+8)" width="400"> <br> <br>
