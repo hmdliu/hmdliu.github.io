@@ -16,7 +16,7 @@ You may find the following docs useful: \
 
 ---
 
-In my spare time, I read philosophical works about Confucianism, Buddhism, and Taoism (儒釋道) and study some divination or fortune-telling techniques (易經數術) from ancient China. I sometimes play [guitar](https://drive.google.com/file/d/1SU3S5UhBUUoE5TJy_hmK87xawhIVPJrA/view?usp=sharing) and [Guqin (古琴)](https://drive.google.com/file/d/1lA3CFnW4XLk4gSvLlmlt_FXuuK5w3zMz/view?usp=sharing) for recreation.
+In my spare time, I read philosophical works about Confucianism, Buddhism, and Taoism (儒釋道) and study some divination or fortune-telling techniques (易經數術) from ancient China. I sometimes play [guitar](https://drive.google.com/file/d/1FIbted0xexPGmICnCvYdNJ9pF79JJYN1/view?usp=sharing) and [Guqin (古琴)](https://drive.google.com/file/d/1lA3CFnW4XLk4gSvLlmlt_FXuuK5w3zMz/view?usp=sharing) for recreation.
 
 <p align="center">
   <img src="../assets/img/htbg.png" alt="Diagram of Houtian Bagua" width="400"> <br> <br>
@@ -37,7 +37,9 @@ Aiming for better work-life balance, I did intensive daily activity logging and 
 Please also check out my friends' homepages: \
 \>\> [William Zhang | 张成瑜](https://mstxy.github.io/) \
 \>\> [Victor Wang | 王泽诚](https://victor-wang-902.github.io/) \
+\>\> [Yuanhe Guo | 郭元和](https://ricercarg.github.io/) \
 \>\> [Xinhao Liu | 刘歆昊](https://gaaaavin.github.io/) \
+\>\> [Bale Chen | 陈丙森](https://balechen.github.io/) \
 \>\> [Harry Lee | 李昊蕤](https://haorui.li/) \
 \>\> [Julie Zhu | 朱芊语](https://qianyu-zhu.github.io/) \
 \>\> [Tom Zhu | 竺力扬](https://tomzhu.site/) \
