@@ -24,7 +24,7 @@ In my spare time, I'm an avid fan of traditional Chinese culture. I'm broadly in
   Diagram of <i>Houtian Bagua</i> (<a href="https://zh.wikisource.org/zh-hant/File:Imperial_Encyclopaedia_-_Education_and_Conduct_-_pic138_-_%E5%BE%8C%E5%A4%A9%E5%85%AB%E5%8D%A6%E5%9C%96.svg" target="_blank">後天八卦圖</a>)
 </p>
 
-Here are some of my other hobbies: [guitar](https://drive.google.com/file/d/1FIbted0xexPGmICnCvYdNJ9pF79JJYN1/view?usp=sharing), [pool](https://drive.google.com/file/d/1vL-Ok1Ghw1BQlANy-HNJ4C3skSg57NEG/view?usp=sharing), [skiing](https://drive.google.com/file/d/1u3IHB3uumXHnRXRpsG0TAdWmYmyuK57v/view?usp=sharing), city walk, and learning languages or dialects (currently Spanish and Cantonese). Yes, that is a lot of hobbies, and I'm at a beginner level in most of them. But still, they have brought me a lot of fun. :-)
+Here are some of my other hobbies: [guitar](https://drive.google.com/file/d/1FIbted0xexPGmICnCvYdNJ9pF79JJYN1/view?usp=sharing), [pool](https://drive.google.com/file/d/1vL-Ok1Ghw1BQlANy-HNJ4C3skSg57NEG/view?usp=sharing), [skiing](https://drive.google.com/file/d/1u3IHB3uumXHnRXRpsG0TAdWmYmyuK57v/view?usp=sharing), city walk, and learning languages or dialects on Duolingo (currently Spanish and Cantonese; please add me [@hmdliu](https://www.duolingo.com/profile/hmdliu) if you are an enthusiast as well). Yes, I know that is a lot of hobbies, and I'm at a beginner level in most of them. Just don't get hung up on it and always have fun!
 
 ---
 
