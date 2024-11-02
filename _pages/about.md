@@ -6,10 +6,11 @@ subtitle: Legally known as 刘浩铭 (Haoming Liu).
 
 profile:
   align: right
-  image: me.jpg
+  image: me_legacy2.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Me at Giza Pyramid</p>
+    <p style="text-align: center;">“應無所住，而生其心。”</p>
+    <p style="text-align: right;">——《金剛經》</p>
 
 news: true              # includes a list of news items
 latest_posts: false     # includes a list of the newest posts
@@ -17,11 +18,11 @@ selected_papers: false  # includes a list of papers marked as "selected={true}"
 social: false           # includes social icons at the bottom of the page
 ---
 
-I'm a Computer Science Ph.D. student at [NYU Shanghai](https://shanghai.nyu.edu/) and [NYU Tandon](https://engineering.nyu.edu/), advised by Professor [Hongyi Wen](https://whongyi.github.io/) in the [MAPS Research Group](https://whongyi.github.io/MAPS-research). I also collaborate closely with Professor [Shengjie Wang](https://sheng-jie-wang.github.io/). Prior to that, I did my undergrad at NYU Shanghai, where I was fortunate to receive research training under the guidance of Professor [Li Guo](https://shanghai.nyu.edu/academics/faculty/directory/li-guo). In 2023, I obtained my B.S. degree (Computer Science major & Math minor) and graduated with the Dean’s Award in Computer Science, Data Science, and Engineering.
+I'm a Computer Science Ph.D. student at [NYU Shanghai](https://shanghai.nyu.edu/) and [NYU Tandon](https://engineering.nyu.edu/), advised by Professor [Hongyi Wen](https://whongyi.github.io/) in the [MAPS Research Group](https://whongyi.github.io/MAPS-research). I also collaborate closely with Professor [Shengjie Wang](https://sheng-jie-wang.github.io/). Prior to that, I did my undergrad at NYU Shanghai, where I started my research journey with Professor [Li Guo](https://shanghai.nyu.edu/academics/faculty/directory/li-guo). I obtained my B.S. degree in 2023 and graduated with the Dean’s Award in Computer Science, Data Science, and Engineering.
 
-My undergrad research was on image segmentation tasks. Currently, my research interest lies in **personalization systems powered by multimodal data and large pre-trained models (with a primary focus on vision)**.
+I'm currently working on investigating and uncovering the hidden dynamics in **deep generative models**, such as Diffusion and LLMs, thereby achieving better **cross-modality alignment** and **personalized services**.
 
-My recent work is about `controllable image generation`.
+Outside of research, I have a wide range of hobbies, including philosophy, music, language, and divination. (Check out the `Misc` tab! 🤣)
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
