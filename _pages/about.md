@@ -18,7 +18,7 @@ selected_papers: false  # includes a list of papers marked as "selected={true}"
 social: false           # includes social icons at the bottom of the page
 ---
 
-I'm a Computer Science Ph.D. student at [NYU Shanghai](https://shanghai.nyu.edu/) and [NYU Tandon](https://engineering.nyu.edu/), advised by Professor [Hongyi Wen](https://whongyi.github.io/) in the [MAPS Research Group](https://whongyi.github.io/MAPS-research). I also collaborate closely with Professor [Shengjie Wang](https://sheng-jie-wang.github.io/). Prior to that, I did my undergrad at NYU Shanghai, where I started my research journey with Professor [Li Guo](https://shanghai.nyu.edu/academics/faculty/directory/li-guo). I obtained my B.S. degree in 2023 and graduated with the Dean’s Award in Computer Science, Data Science, and Engineering.
+I'm a Computer Science Ph.D. student at [NYU Shanghai](https://shanghai.nyu.edu/) and [NYU Tandon](https://engineering.nyu.edu/), advised by Professor [Hongyi Wen](https://whongyi.github.io/) in the [MAPS Research Group](https://whongyi.github.io/MAPS-research). I also work closely with Professor [Shengjie Wang](https://sheng-jie-wang.github.io/). Prior to that, I did my undergrad at NYU Shanghai, where I started my research journey with Professor [Li Guo](https://shanghai.nyu.edu/academics/faculty/directory/li-guo). I obtained my B.S. degree in 2023 and graduated with the Dean’s Award in Computer Science, Data Science, and Engineering.
 
 I'm currently working on investigating and uncovering the hidden dynamics in **deep generative models**, such as Diffusion and LLMs, thereby achieving better **cross-modality alignment** and **personalized services**.
 
